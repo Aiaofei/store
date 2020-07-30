@@ -1,2 +1,2 @@
 # store
-only stor
+only store
